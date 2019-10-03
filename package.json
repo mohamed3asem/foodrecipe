@@ -4,9 +4,7 @@
   "description": "forkify project",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development",
-    "build": "webpack --mode production",
-    "start": "node webpack-dev-server --mode-development --open"
+    "start": "node webpack --mode production"
   },
   "author": "mohamed asem",
   "license": "ISC",
