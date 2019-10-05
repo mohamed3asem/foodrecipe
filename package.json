@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode develpoment",
     "build": "webpack --mode production",
-    "start": "node SERVER/app.js "
+    "start": "node server/app.js "
   },
   "author": "mohamed asem",
   "license": "ISC",
